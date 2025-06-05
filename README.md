@@ -19,9 +19,7 @@
 - 📚 Continuously learning new tools and technologies  
 
 ---
-
-- 📖 **Currently Learning:**
--  
+📖 **Currently Learning:** 
   ![](https://img.icons8.com/officel/24/react.png) React  
   ![](https://img.icons8.com/color/24/nodejs.png) Node.js  
   ![](https://img.icons8.com/color/24/python.png) Python  
